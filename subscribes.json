@@ -2,11 +2,31 @@
   {
     "id": "yandexPlus",
     "name": "Yandex Плюс",
-    "icon": "https://www.iguides.ru/upload/medialibrary/94b/94beaa176408c05af9f3d97a84bb706c.png"
+    "icon": "https://www.iguides.ru/upload/medialibrary/94b/94beaa176408c05af9f3d97a84bb706c.png",
+    "cost": "199 ₽"
   },
   {
-    "id": "okko",
-    "name": "okko",
-    "icon": "https://habrastorage.org/getpro/moikrug/uploads/company/100/004/919/6/logo/medium_f26c7d4ee53a4d94d21b84c4c576759e.jpg"
+    "id": "Okko",
+    "name": "Okko",
+    "icon": "https://habrastorage.org/getpro/moikrug/uploads/company/100/004/919/6/logo/medium_f26c7d4ee53a4d94d21b84c4c576759e.jpg",
+    "cost": "4799 ₽"
+  },
+  {
+    "id": "YoutubePremium",
+    "name": "Youtube Premium",
+    "icon": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s88-c-k-c0x00ffffff-no-rj",
+    "cost": "199 ₽"
+  },
+  {
+    "id": "Storytel",
+    "name": "Storytel",
+    "icon": "https://darkstore.su/media/products/cae01cd1588b6200996e3761a088d62f.png",
+    "cost": "449 ₽"
+  },
+  {
+    "id": "Spotify",
+    "name": "Spotify",
+    "icon": "https://play-lh.googleusercontent.com/dwyqtk9CgAaoXUcYB8pUHXRErF5A2Shd0UrZdBLkpAFx_e630aZahwN31HRZWNksIQ",
+    "cost": "169 ₽"
   }
 ]
